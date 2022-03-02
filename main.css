@@ -1,1 +1,35 @@
+.header{
+        background-color: #44e36e;
+        height: 0px 0px 10px 0px;
+      }
 
+      .title {
+        color: blue;
+        font-family: 'Montserrat';
+        text-align: center;
+        font-size: 64px;
+        background: linear-gradient(to bottom right, blue, pink);
+        -webkit-background-clip: text;//テキストでくり抜く
+        -webkit-text-fill-color: transparent;
+        padding: 5px;
+      }
+
+      .subtitle {
+        color: black;
+        font-family: "Montserrat";
+        text-align: center;
+        font-size: 15px;
+        background: #44e36e;
+
+      }
+
+      .button{
+        width: 300px;
+        height: 150px;
+        text-align: center;
+        background-color: red;
+        border-radius: 100px;
+        font-family: "Montserrat";
+        font-size: 20px;
+
+      }
