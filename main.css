@@ -6,13 +6,12 @@
       }
 
       .title {
-        color: blue;
         font-family: 'Montserrat';
         text-align: center;
         font-size: 64px;
         background: linear-gradient(to bottom right, blue, pink);
-        -webkit-background-clip: text;//テキストでくり抜く
-        -webkit-text-fill-color: transparent;
+                -webkit-background-clip: text;
+                -webkit-text-fill-color: transparent;
         padding: 5px;
       }
 
